@@ -1,6 +1,4 @@
 # Kodluyoruz Front-End Ödev-2
-
-Kodluyoruz Front-End Eğitiminde "Elif Aleyna Çelik" Hocamızın bize verdiği ödevin sunumu olarak HTML ile oluşturduğumuz ilk web sayfamız.
 # Hakkımda
 Merhaba, ismim elif aleyna resim yapmayı ve filkm izlemeyi severim. Bilgisayarla uğraşmayıda çok seviyorum bu yüzden Kodluyoruz'a üye oldum ve burdan çok güzel bilgiler öğreniyorum.
 ## Sevdiğim Filmler
